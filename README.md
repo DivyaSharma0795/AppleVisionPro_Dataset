@@ -9,9 +9,13 @@ The Apple Vision Pro, launched on February 2, 2024, has revolutionized AR experi
 Data was collected using Twitter's API with OAuth v2.0. This ensured that the tweets were filtered to include only those referencing the Apple Vision Pro. The dataset consists of 26,704 tweets collected during this period. The search terms used were the hashtag “#AppleVisionPro” and “Apple Vision Pro”. The data was subsequently uploaded to HuggingFace and is publicly accessible for analysis.
 
 The Apple Vision Pro's US availability press release was on January 8, 2024 (indicated by the green line in the chart below) – this led to an increase in the number of tweets as well as a rise in Apple's stock prices.
-![Tweets Over Time](03%dResources/Tweets_Over_Time.png)
+
+![Tweets Over Time](03%20Resources/Tweets_Over_Time.png)
+
 The product became available from February 2, 2024 (indicated by the red line in the chart below) – this also led to an increase in the number of tweets and a brief rise in the stock price.
-![Tweets Over Time](03%dResources/Price_Over_Time.png)
+
+![Tweets Over Time](03%20Resources/Price_Over_Time.png)
+
 
 ## Dataset Access
 
@@ -51,9 +55,9 @@ The sentiment analysis outcomes are presented in a comparative format, facilitat
 
 The following charts provide a visual representation of the sentiment analysis outcomes:
 
-![Polarity By Model](03%dResources/Polarity_By_Model.png)
-![Polarity Over Time](03%dResources/Polarity_Over_Time.png)
-![Polarity Share Over Time](03%dResources/Polarity_Share_Over_Time.png)
+![Polarity By Model](03%20Resources/Polarity_By_Model.png)
+![Polarity Over Time](03%20Resources/Polarity_Over_Time.png)
+![Polarity Share Over Time](03%20Resources/Polarity_Share_Over_Time.png)
 
 ### Performance Evaluation
 
